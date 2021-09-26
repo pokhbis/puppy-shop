@@ -1,6 +1,6 @@
 # Welcome to "The Puppies Shop"
 
-To visit this site on Netlify please [Puppies Shop](https://unruffled-fermi-7d67c8.netlify.app/?fbclid=IwAR1kWQYVXZXSY_sr_hhDOkaUSn0J_1VP45LyEaqF74qxW_tawWzaAVjUACQ).
+To visit this site on Netlify please click [Puppies Shop](https://unruffled-fermi-7d67c8.netlify.app/?fbclid=IwAR1kWQYVXZXSY_sr_hhDOkaUSn0J_1VP45LyEaqF74qxW_tawWzaAVjUACQ).
 
 ## Three Bullet Points about us
 
