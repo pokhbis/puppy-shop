@@ -1,0 +1,38 @@
+.puppy-img{
+    height: 250px;
+    width: 100%;
+}
+.puppy-display{
+    /* display:grid;
+    grid-template-columns: repeat(4,1fr);
+    background-color: linen;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+    */
+    /* background-color:  linen;  */
+    /* background-color: rgb(180, 180, 192); */
+    background-color: rgba(226, 213, 200, 0.603);
+    margin: 5px 5px;
+    padding-bottom: 10px;
+}
+.cart-btn{
+    width: 150px;
+    height: 35px;
+    background-color: rgb(21, 199, 160);
+    color: white;
+    font-weight: 600;
+    border-radius: 7px;
+    border: 1px solid gainsboro;
+    cursor: pointer;
+}
+.puppy-info{
+    margin-top: 5px;
+}
+.icon{
+    margin-left: 30px;
+    margin-right: 30px;
+    cursor: pointer;
+}

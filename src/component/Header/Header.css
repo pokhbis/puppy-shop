@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(7, 136, 129);
+ background-color: lightyellow;
+ 
+}
+.header-span{
+    color: rgb(211, 72, 102);
+}
+.header-logo{
+    /* width: 300px; */
+    height: 250px;
+}
+.header-text{
+    text-align: left;
+}
