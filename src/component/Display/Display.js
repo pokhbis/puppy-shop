@@ -7,7 +7,7 @@ const Display = (props) => {
     //de-structuring received data
     const { img, breed, age, weight, location, price } = props.puppy;
     const element = <FontAwesomeIcon icon={faShoppingBag} />
-
+    console.log(props)
     return (
         //display section of puppies
         <div className=" puppy-display">
