@@ -4,8 +4,7 @@ import Display from '../Display/Display';
 import './Body.css';
 
 const Body = () => {
-
-
+    // Getting & Setting data
     const [puppies, setPuppies] = useState([]);
     const [cart, setCart] = useState([]);
     useEffect(() => {
@@ -13,14 +12,12 @@ const Body = () => {
             .then(res => res.json())
             .then(data => setPuppies(data))
     }, [])
-
     // col-md-9 col-lg-9 col-sm-7
-
+    //displaying clicked data to order summery
     const addToCart = (puppy) => {
         const newCart = [...cart, puppy];
         setCart(newCart);
     }
-
     return (
         <div className="puppy-container ">
             <div className="display-puppies">
@@ -34,16 +31,9 @@ const Body = () => {
                     )
                 }
             </div>
-
-
-
-
             <div className="display-info">
                 <Cart cart={cart}></Cart>
             </div>
-
-
-
         </div>
     );
 };

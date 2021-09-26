@@ -3,17 +3,6 @@
     width: 100%;
 }
 .puppy-display{
-    /* display:grid;
-    grid-template-columns: repeat(4,1fr);
-    background-color: linen;
-    text-align: center;
-    width: 100%;
-    margin-bottom: 10px;
-    align-items: center;
-    justify-content: center;
-    */
-    /* background-color:  linen;  */
-    /* background-color: rgb(180, 180, 192); */
     background-color: rgba(226, 213, 200, 0.603);
     margin: 5px 5px;
     padding-bottom: 10px;
